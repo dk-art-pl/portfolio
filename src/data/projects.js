@@ -1,0 +1,1298 @@
+export default [
+  {
+    "slug": "belem-tower-2026",
+    "title": "25th of April Bridge 2026",
+    "description": "Portugal, Lisboa, 2026",
+    "image": "/images/belem-tower-2026.jpg"
+  },
+  {
+    "slug": "25th-of-april-bridge-2026",
+    "title": "Madagascar 2026",
+    "description": "Madagascar, 2026",
+    "image": "/images/25th-of-april-bridge-2026.jpg"
+  },
+  {
+    "slug": "madagascar-2026",
+    "title": "Cathedral of Santa Maria del Fiore",
+    "description": "Italy, Florence, 2025",
+    "image": "/images/madagascar-2026.jpg"
+  },
+  {
+    "slug": "cathedral-of-santa-maria-del-fiore",
+    "title": "Bologna 2025",
+    "description": "Italy, Bologna, 2025",
+    "image": "/images/cathedral-of-santa-maria-del-fiore.jpg"
+  },
+  {
+    "slug": "bologna-2025",
+    "title": "Florence 2025",
+    "description": "Italy, Firenze, 2025",
+    "image": "/images/bologna-2025.jpg"
+  },
+  {
+    "slug": "florence-2025",
+    "title": "Paris 2025",
+    "description": "France, Paris, 2025",
+    "image": "/images/florence-2025.jpg"
+  },
+  {
+    "slug": "paris-2025",
+    "title": "The Air and Space Museum in Paris",
+    "description": "France, Paris, 2025",
+    "image": "/images/paris-2025.jpg"
+  },
+  {
+    "slug": "the-air-and-space-museum-in-paris",
+    "title": "Louvre Museum",
+    "description": "France, Paris, Louvre, 2025",
+    "image": "/images/the-air-and-space-museum-in-paris.jpg"
+  },
+  {
+    "slug": "louvre-museum",
+    "title": "Paris at night",
+    "description": "France, Paris, 2025",
+    "image": "/images/louvre-museum.jpg"
+  },
+  {
+    "slug": "paris-at-night",
+    "title": "Muzyczna Kuźnia 2025 - Event",
+    "description": "Poland, Kielce, 2025",
+    "image": "/images/paris-at-night.jpg"
+  },
+  {
+    "slug": "muzyczna-kuznia-2025-event",
+    "title": "Muzyczna Kuźnia 2025",
+    "description": "",
+    "image": "/images/muzyczna-kuznia-2025-event.jpg"
+  },
+  {
+    "slug": "muzyczna-kuznia-2025",
+    "title": "Athens",
+    "description": "Greece, Athens, 2025",
+    "image": "/images/muzyczna-kuznia-2025.jpg"
+  },
+  {
+    "slug": "athens",
+    "title": "emple of Hephaestus 2025",
+    "description": "Greece, Athens, 2025",
+    "image": "/images/athens.jpg"
+  },
+  {
+    "slug": "emple-of-hephaestus-2025",
+    "title": "Acropolis of Athens 2025",
+    "description": "Greece, Athens, 2025",
+    "image": "/images/emple-of-hephaestus-2025.jpg"
+  },
+  {
+    "slug": "acropolis-of-athens-2025",
+    "title": "Lycabettus Hill",
+    "description": "Greece, Athens, 2025",
+    "image": "/images/acropolis-of-athens-2025.jpg"
+  },
+  {
+    "slug": "lycabettus-hill",
+    "title": "The Acropolis of Athens",
+    "description": "Greece, Athens. 2025",
+    "image": "/images/lycabettus-hill.jpg"
+  },
+  {
+    "slug": "the-acropolis-of-athens",
+    "title": "Athens at night 2025",
+    "description": "Greccy, Athens, 2025",
+    "image": "/images/the-acropolis-of-athens.jpg"
+  },
+  {
+    "slug": "athens-at-night-2025",
+    "title": "Świętokrzyskie Leader of Social Economy 2024",
+    "description": "Poland, Kielce, 2024",
+    "image": "/images/athens-at-night-2025.jpg"
+  },
+  {
+    "slug": "leader-of-social-economy-2024",
+    "title": "Munich",
+    "description": "Germany, Munich, 2024",
+    "image": "/images/leader-of-social-economy-2024.jpg"
+  },
+  {
+    "slug": "munich",
+    "title": "Technopark Kielce Startup Booster Poland",
+    "description": "Poland, Kielce, 2024",
+    "image": "/images/munich.jpg"
+  },
+  {
+    "slug": "technopark-kielce-startup-booster-poland",
+    "title": "Lipowiec Castle in Babice",
+    "description": "Poland, Babice, 2024",
+    "image": "/images/technopark-kielce-startup-booster-poland.jpg"
+  },
+  {
+    "slug": "lipowiec-castle-in-babice",
+    "title": "Wędrownicza Watra 2024",
+    "description": "Poland, Krakow, 2024",
+    "image": "/images/lipowiec-castle-in-babice.jpg"
+  },
+  {
+    "slug": "wedrownicza-watra-2024-1",
+    "title": "Łagów 2024",
+    "description": "Poland, Łagów, 2024",
+    "image": "/images/wedrownicza-watra-2024-1.jpg"
+  },
+  {
+    "slug": "lagow-2024",
+    "title": "Sanctuary of St John Paul II",
+    "description": "Poland, Krakow, 2024",
+    "image": "/images/lagow-2024.jpg"
+  },
+  {
+    "slug": "sanctuary-of-st-john-paul-ii",
+    "title": "Łagów Commune",
+    "description": "Poland, Łagów, 2024",
+    "image": "/images/sanctuary-of-st-john-paul-ii.jpg"
+  },
+  {
+    "slug": "gmina-lagow",
+    "title": "Teatr Słowackiego w Krakowie",
+    "description": "Poland, Krakow, 2024",
+    "image": "/images/gmina-lagow.jpg"
+  },
+  {
+    "slug": "teatr-slowackiego-w-krakowie",
+    "title": "Klodzko Fortress 2024",
+    "description": "Poland, Klodzko, 2024",
+    "image": "/images/teatr-slowackiego-w-krakowie.jpg"
+  },
+  {
+    "slug": "klodzko-fortress-2024",
+    "title": "Klodzko Fortress",
+    "description": "Poland, Klodzko, 2024",
+    "image": "/images/klodzko-fortress-2024.jpg"
+  },
+  {
+    "slug": "klodzko-fortress",
+    "title": "Bus station in Kielce",
+    "description": "Poland, Kielce, 2024",
+    "image": "/images/klodzko-fortress.jpg"
+  },
+  {
+    "slug": "bus-station-in-kielce",
+    "title": "Vatican 2024",
+    "description": "Italy, Vatican, 2024",
+    "image": "/images/bus-station-in-kielce.jpg"
+  },
+  {
+    "slug": "vatican-2024",
+    "title": "PINT24",
+    "description": "Poland, Krakow, 2024",
+    "image": "/images/vatican-2024.jpg"
+  },
+  {
+    "slug": "pint24",
+    "title": "Cestanit Zone",
+    "description": "Poland, Krakow, 2024",
+    "image": "/images/pint24.jpg"
+  },
+  {
+    "slug": "cestanit-zone",
+    "title": "Castle in Grodziec Śląski",
+    "description": "Poland, Grodziec Śląski, 2024",
+    "image": "/images/cestanit-zone.jpg"
+  },
+  {
+    "slug": "castle-in-grodziec-slaski",
+    "title": "Stefan Żeromski Manor House in Ciekoty",
+    "description": "Poland, Ciekoty. 2024",
+    "image": "/images/castle-in-grodziec-slaski.jpg"
+  },
+  {
+    "slug": "stefan-zeromski-manor-house-in-ciekoty",
+    "title": "II Klocki Fest",
+    "description": "Poland, Kielce, 2024",
+    "image": "/images/stefan-zeromski-manor-house-in-ciekoty.jpg"
+  },
+  {
+    "slug": "ii-klocki-fest",
+    "title": "Roma & Vatican 2024",
+    "description": "Italy, Roma, Vatican, 2024",
+    "image": "/images/ii-klocki-fest.jpg"
+  },
+  {
+    "slug": "roma-vatican-2024",
+    "title": "Pompei",
+    "description": "Italy, Napoli, Pompei, 2024",
+    "image": "/images/roma-vatican-2024.jpg"
+  },
+  {
+    "slug": "pompei",
+    "title": "Neapol 2024",
+    "description": "Italy, Neapol, 2024",
+    "image": "/images/pompei.jpg"
+  },
+  {
+    "slug": "neapol-2024-1",
+    "title": "Monte Cassino 2024",
+    "description": "Italy, Cassino, Monte Cassino, 2024",
+    "image": "/images/neapol-2024-1.jpg"
+  },
+  {
+    "slug": "monte-cassino-2024",
+    "title": "Rome by night 2024",
+    "description": "Italy, Roma, 2024",
+    "image": "/images/monte-cassino-2024.jpg"
+  },
+  {
+    "slug": "rome-by-night-2024",
+    "title": "Terracina 2024",
+    "description": "Italy, Terracina, 2024",
+    "image": "/images/rome-by-night-2024.jpg"
+  },
+  {
+    "slug": "terracina-2024",
+    "title": "Neapol 2024",
+    "description": "Italy, Neapol, 2024",
+    "image": "/images/terracina-2024.jpg"
+  },
+  {
+    "slug": "neapol-2024",
+    "title": "Krakow Airport 2024",
+    "description": "Poland, Krakow, 2024",
+    "image": "/images/neapol-2024.jpg"
+  },
+  {
+    "slug": "krakow-airport-2024",
+    "title": "Blue Grotto 2024",
+    "description": "Matla, 2024",
+    "image": "/images/krakow-airport-2024.jpg"
+  },
+  {
+    "slug": "blue-grotto-2024",
+    "title": "Valletta 2024",
+    "description": "Malta, Valletta, 2024",
+    "image": "/images/blue-grotto-2024.jpg"
+  },
+  {
+    "slug": "valletta-2024",
+    "title": "Mdina 2024",
+    "description": "Malta, Mdina, 2024",
+    "image": "/images/valletta-2024.jpg"
+  },
+  {
+    "slug": "mdina-2024",
+    "title": "Marsaxloxx 2024",
+    "description": "Malta, Marsaxloxx, 2024",
+    "image": "/images/mdina-2024.jpg"
+  },
+  {
+    "slug": "marsaxloxx-2024",
+    "title": "Marsaxlokk",
+    "description": "Malta, Marsaxlokk, 2024",
+    "image": "/images/marsaxloxx-2024.jpg"
+  },
+  {
+    "slug": "marsaxlokk",
+    "title": "Mdina",
+    "description": "Malta, Mdina, 2024",
+    "image": "/images/marsaxlokk.jpg"
+  },
+  {
+    "slug": "mdina",
+    "title": "Valletta by night",
+    "description": "Malta, Valletta, 2024",
+    "image": "/images/mdina.jpg"
+  },
+  {
+    "slug": "valletta-by-night",
+    "title": "MSC World Europa - Valletta 2024",
+    "description": "Malta, Valletta, 2024",
+    "image": "/images/valletta-by-night.jpg"
+  },
+  {
+    "slug": "msc-world-europa-valletta-2024",
+    "title": "Muzyczna Kuźnia 2024",
+    "description": "Poland, Kielce, 2024",
+    "image": "/images/msc-world-europa-valletta-2024.jpg"
+  },
+  {
+    "slug": "muzyczna-kuznia-2024",
+    "title": "Poznan by night 2024",
+    "description": "Poland, Poznan, 2024",
+    "image": "/images/muzyczna-kuznia-2024.jpg"
+  },
+  {
+    "slug": "poznan-by-night-2024",
+    "title": "Castello Ursino",
+    "description": "Italy, Sicily, Catania, 2023",
+    "image": "/images/poznan-by-night-2024.jpg"
+  },
+  {
+    "slug": "castello-ursino",
+    "title": "Catania 2023",
+    "description": "Italy, Sicilia, Catania, 2023",
+    "image": "/images/castello-ursino.jpg"
+  },
+  {
+    "slug": "catania-2023",
+    "title": "Vulcano Etna 2023",
+    "description": "Italy, Sicilia, 2023",
+    "image": "/images/catania-2023.jpg"
+  },
+  {
+    "slug": "vulcano-etna-2023",
+    "title": "Mount Etna",
+    "description": "Italy, Sicilia, 2023",
+    "image": "/images/vulcano-etna-2023.jpg"
+  },
+  {
+    "slug": "mount-etna",
+    "title": "Catania at night",
+    "description": "Italy, Sicilia, Catania, 2023",
+    "image": "/images/mount-etna.jpg"
+  },
+  {
+    "slug": "catania-at-night",
+    "title": "Exotic Fest 2023",
+    "description": "Poland, Kielce, 2023",
+    "image": "/images/catania-at-night.jpg"
+  },
+  {
+    "slug": "exotic-fest-2023",
+    "title": "Krakow Airport",
+    "description": "Poland, Krakow, 2023",
+    "image": "/images/exotic-fest-2023.jpg"
+  },
+  {
+    "slug": "krakow-airport",
+    "title": "Poznan by night 2023",
+    "description": "Poland, Poznan, 2023",
+    "image": "/images/krakow-airport.jpg"
+  },
+  {
+    "slug": "poznan-by-night-2023",
+    "title": "Muzyczna Kuźnia 2023 - Making Of",
+    "description": "Poland, Kielce, 2023",
+    "image": "/images/poznan-by-night-2023.jpg"
+  },
+  {
+    "slug": "muzyczna-kuznia-2023",
+    "title": "Gdansk 2022",
+    "description": "Poland, Gdańsk, 2022",
+    "image": "/images/muzyczna-kuznia-2023.jpg"
+  },
+  {
+    "slug": "gdansk-2022",
+    "title": "Głodówka Scout Shelter",
+    "description": "Poland, Bukowina Tatrzańska, 2022",
+    "image": "/images/gdansk-2022.jpg"
+  },
+  {
+    "slug": "glodowka-scout-shelter",
+    "title": "Barcelona 2022",
+    "description": "Spain, Barcelona, 2022",
+    "image": "/images/glodowka-scout-shelter.jpg"
+  },
+  {
+    "slug": "barcelona-2022",
+    "title": "Transbordador Aeri Del Port 2022",
+    "description": "Spain, Barcelona, 2022",
+    "image": "/images/barcelona-2022.jpg"
+  },
+  {
+    "slug": "transbordador-aeri-del-port-2022",
+    "title": "Barcelona at night",
+    "description": "Spain, Barcelona, 2022",
+    "image": "/images/transbordador-aeri-del-port-2022.jpg"
+  },
+  {
+    "slug": "barcelona-at-night",
+    "title": "Mausoleum of Martyrdom of Polish Villages in Michniów",
+    "description": "Poland, Michniów, 2022",
+    "image": "/images/barcelona-at-night.jpg"
+  },
+  {
+    "slug": "mausoleum-of-martyrdom-of-polish-villages-in-michniow",
+    "title": "Fort 52a Jugowice in Krakow",
+    "description": "Poland, Krakow, 2022",
+    "image": "/images/mausoleum-of-martyrdom-of-polish-villages-in-michniow.jpg"
+  },
+  {
+    "slug": "fort-52a-jugowice-in-krakow",
+    "title": "Wloszczowa 2022",
+    "description": "Poland, Wloszczowa, 2022",
+    "image": "/images/fort-52a-jugowice-in-krakow.jpg"
+  },
+  {
+    "slug": "wloszczowa-2022",
+    "title": "Castle in Korzkiew",
+    "description": "Poland, Korzkiew, 2022",
+    "image": "/images/wloszczowa-2022.jpg"
+  },
+  {
+    "slug": "castle-in-korzkiew",
+    "title": "Torun by night",
+    "description": "Poland, Torun, 2022",
+    "image": "/images/castle-in-korzkiew.jpg"
+  },
+  {
+    "slug": "torun-by-night",
+    "title": "Brusseles 2022",
+    "description": "Belgium, Brussels, 2022",
+    "image": "/images/torun-by-night.jpg"
+  },
+  {
+    "slug": "brusseles-2022",
+    "title": "Night Brussels",
+    "description": "Belgium, Brussels, 2022",
+    "image": "/images/brusseles-2022.jpg"
+  },
+  {
+    "slug": "night-brussels",
+    "title": "Walk around Kielce",
+    "description": "Poland, Kielce, 2022",
+    "image": "/images/night-brussels.jpg"
+  },
+  {
+    "slug": "walk-around-kielce",
+    "title": "Kielce at night",
+    "description": "Poland, Kielce, 2022",
+    "image": "/images/walk-around-kielce.jpg"
+  },
+  {
+    "slug": "kielce-at-night",
+    "title": "4 Design Days 2022",
+    "description": "Poland, Katowice, 2022",
+    "image": "/images/kielce-at-night.jpg"
+  },
+  {
+    "slug": "4-design-days-2022",
+    "title": "Muzyczna Kuźnia 2022",
+    "description": "Poland, Kielce, 2022",
+    "image": "/images/4-design-days-2022.jpg"
+  },
+  {
+    "slug": "muzyczna-kuznia-2022",
+    "title": "Ostrow Wielkopolski at night",
+    "description": "Poland, Ostrow Wielkopolski, 2022",
+    "image": "/images/muzyczna-kuznia-2022.jpg"
+  },
+  {
+    "slug": "ostrow-wlkp-at-night",
+    "title": "Wroclaw at night",
+    "description": "Poland, Wrocław, 2022",
+    "image": "/images/ostrow-wlkp-at-night.jpg"
+  },
+  {
+    "slug": "wroclaw-at-night",
+    "title": "ReMake Festival 2021",
+    "description": "Poland, Lodz, 2021",
+    "image": "/images/wroclaw-at-night.jpg"
+  },
+  {
+    "slug": "2021-12-10-remake-festival",
+    "title": "Rafting on the Dunajec River",
+    "description": "Poland, Sromowce, Dunajec River, 2021",
+    "image": "/images/2021-12-10-remake-festival.jpg"
+  },
+  {
+    "slug": "rafting-on-the-dunajec-river",
+    "title": "The Royal Castle in Chęciny",
+    "description": "Poland, Chęciny, 2021",
+    "image": "/images/rafting-on-the-dunajec-river.jpg"
+  },
+  {
+    "slug": "the-royal-castle-in-checiny",
+    "title": "Chęciny by night",
+    "description": "Poland, Chęciny, 2021",
+    "image": "/images/the-royal-castle-in-checiny.jpg"
+  },
+  {
+    "slug": "checiny-by-night",
+    "title": "Grunwald - the battlefield",
+    "description": "Poland, Grunwald, Battlefield, 2021",
+    "image": "/images/checiny-by-night.jpg"
+  },
+  {
+    "slug": "grunwald-the-battlefield",
+    "title": "Olsztyn at night",
+    "description": "Poland, Olsztyn, 2021",
+    "image": "/images/grunwald-the-battlefield.jpg"
+  },
+  {
+    "slug": "olsztyn-at-night",
+    "title": "Orthodox church in Powroźnik",
+    "description": "Poland, Powroznik, 2021",
+    "image": "/images/olsztyn-at-night.jpg"
+  },
+  {
+    "slug": "orthodox-church-in-powroznik",
+    "title": "Krynica Zdroj at night",
+    "description": "Poland, Krynica Zdroj, 2021",
+    "image": "/images/orthodox-church-in-powroznik.jpg"
+  },
+  {
+    "slug": "krynica-zdroj-at-night",
+    "title": "Forum Design",
+    "description": "Poland, Krakow, 2021",
+    "image": "/images/krynica-zdroj-at-night.jpg"
+  },
+  {
+    "slug": "forum-design",
+    "title": "Winter in Zakopane",
+    "description": "Poland, Zakopane, 2021",
+    "image": "/images/forum-design.jpg"
+  },
+  {
+    "slug": "winter-in-zakopane",
+    "title": "Art studio Ewa Hapek",
+    "description": "Poland, Kielce, 2021",
+    "image": "/images/winter-in-zakopane.jpg"
+  },
+  {
+    "slug": "art-studio-ewa-hapek",
+    "title": "Muzyczna Kuźnia 2021",
+    "description": "Poland, Kielce, 2021",
+    "image": "/images/art-studio-ewa-hapek.jpg"
+  },
+  {
+    "slug": "muzyczna-kuznia-2021",
+    "title": "Zakopane at night",
+    "description": "Poland, Zakopane, 2020",
+    "image": "/images/muzyczna-kuznia-2021.jpg"
+  },
+  {
+    "slug": "zakopane-at-night",
+    "title": "Lublin at night",
+    "description": "Poland, Lublin, 2020",
+    "image": "/images/zakopane-at-night.jpg"
+  },
+  {
+    "slug": "lublin-at-night",
+    "title": "The port and the sunset of Darłówek",
+    "description": "Poland, Darłowo, 2020",
+    "image": "/images/lublin-at-night.jpg"
+  },
+  {
+    "slug": "the-port-and-the-sunset-of-darlowek",
+    "title": "Castle in Malbork",
+    "description": "Poland, Malbork, 2020",
+    "image": "/images/the-port-and-the-sunset-of-darlowek.jpg"
+  },
+  {
+    "slug": "castle-in-malbork",
+    "title": "Castle in Malbork",
+    "description": "Poland, Malbork, 2020",
+    "image": "/images/castle-in-malbork.jpg"
+  },
+  {
+    "slug": "castle-in-malbork-1",
+    "title": "The Sopot Pier",
+    "description": "Poland, Sopot, 2020",
+    "image": "/images/castle-in-malbork-1.jpg"
+  },
+  {
+    "slug": "the-sopot-pier",
+    "title": "City of Gdansk",
+    "description": "Poland, Gdansk. 2020",
+    "image": "/images/the-sopot-pier.jpg"
+  },
+  {
+    "slug": "gdansk",
+    "title": "Gdansk at night",
+    "description": "Poland, Gdansk, 2020",
+    "image": "/images/gdansk.jpg"
+  },
+  {
+    "slug": "gdansk-at-night-2020",
+    "title": "Royal Wawel in June",
+    "description": "Poland, Krakow, 2020",
+    "image": "/images/gdansk-at-night-2020.jpg"
+  },
+  {
+    "slug": "royal-wawel-in-june",
+    "title": "Balloon flights",
+    "description": "Poland, Krakow, 2020",
+    "image": "/images/royal-wawel-in-june.jpg"
+  },
+  {
+    "slug": "balloon-flights",
+    "title": "Macharski Bridge",
+    "description": "Poland, Krakow, 2020",
+    "image": "/images/balloon-flights.jpg"
+  },
+  {
+    "slug": "macharski-bridge",
+    "title": "Macharski Bridge in Krakow",
+    "description": "Poland, Krakow, 2020",
+    "image": "/images/macharski-bridge.jpg"
+  },
+  {
+    "slug": "macharski-bridge-in-krakow",
+    "title": "Vistula Bend in Krakow",
+    "description": "Poland, Krakow, 2020",
+    "image": "/images/macharski-bridge-in-krakow.jpg"
+  },
+  {
+    "slug": "vistula-bend-in-krakow",
+    "title": "Dąbie Water Level",
+    "description": "Poland, Krakow, 2020",
+    "image": "/images/vistula-bend-in-krakow.jpg"
+  },
+  {
+    "slug": "dabie-water-level",
+    "title": "The Bledow Desert - Landing",
+    "description": "Poland, Klucze, Bledow Desert, 2020",
+    "image": "/images/dabie-water-level.jpg"
+  },
+  {
+    "slug": "bledow-desert-landing",
+    "title": "Benedictine Abbey in Tyniec",
+    "description": "Poland, Krakow, 2020",
+    "image": "/images/bledow-desert-landing.jpg"
+  },
+  {
+    "slug": "opactwo-benedyktynow-w-tyncu",
+    "title": "Barbican in Krakow",
+    "description": "Poland, Krakow, 2020",
+    "image": "/images/opactwo-benedyktynow-w-tyncu.jpg"
+  },
+  {
+    "slug": "barbican-in-krakow",
+    "title": "Wawel Royal Castle",
+    "description": "Poland, Krakow, 2020",
+    "image": "/images/barbican-in-krakow.jpg"
+  },
+  {
+    "slug": "wawel-royal-castle",
+    "title": "Main Market Square in Krakow",
+    "description": "Poland, Krakow, 2020",
+    "image": "/images/wawel-royal-castle.jpg"
+  },
+  {
+    "slug": "main-market-square-in-krakow",
+    "title": "Old Town Krakow",
+    "description": "Poland, Krakow, 2020",
+    "image": "/images/main-market-square-in-krakow.jpg"
+  },
+  {
+    "slug": "old-town-krakow",
+    "title": "4 Design Days 2020",
+    "description": "Poland, Katowice, 2020",
+    "image": "/images/old-town-krakow.jpg"
+  },
+  {
+    "slug": "4-design-days-2020",
+    "title": "Muzyczna Kuźnia 2020",
+    "description": "Poland, Kielce, 2020",
+    "image": "/images/4-design-days-2020.jpg"
+  },
+  {
+    "slug": "muzyczna-kuznia-2020",
+    "title": "Jerusalem",
+    "description": "Israel, Jerusalem, 2020",
+    "image": "/images/muzyczna-kuznia-2020.jpg"
+  },
+  {
+    "slug": "jerusalem",
+    "title": "Tel Aviv Coast",
+    "description": "Israel, Tel Aviv, 2020",
+    "image": "/images/jerusalem.jpg"
+  },
+  {
+    "slug": "tel-aviv-2020",
+    "title": "Jerusalem by night",
+    "description": "Israel, Jerusalem, 2020",
+    "image": "/images/tel-aviv-2020.jpg"
+  },
+  {
+    "slug": "jerozolima-2020",
+    "title": "VIII Festival Przy Kominku - Making Of",
+    "description": "Poland, Kielce, Targi Kielce, 2019",
+    "image": "/images/jerozolima-2020.jpg"
+  },
+  {
+    "slug": "viii-festiwal-przy-kominku",
+    "title": "Congress of Urban Policy 2019",
+    "description": "Poland, Kielce, Targi Kielce, 2019",
+    "image": "/images/viii-festiwal-przy-kominku.jpg"
+  },
+  {
+    "slug": "kongres-polityki-miejskiej-2019",
+    "title": "Vatican",
+    "description": "Italy, Rome, Vatican, 2019",
+    "image": "/images/kongres-polityki-miejskiej-2019.jpg"
+  },
+  {
+    "slug": "citta-del-vaticano-2019",
+    "title": "Kiev",
+    "description": "Ukraine, Kiev, 2019",
+    "image": "/images/citta-del-vaticano-2019.jpg"
+  },
+  {
+    "slug": "miasto-kijow",
+    "title": "Kiev at night",
+    "description": "Ukraine, Kiev, 2019",
+    "image": "/images/miasto-kijow.jpg"
+  },
+  {
+    "slug": "kiev-at-night",
+    "title": "Forum Romanum",
+    "description": "Italy, Rome, 2019",
+    "image": "/images/kiev-at-night.jpg"
+  },
+  {
+    "slug": "forum-romanum",
+    "title": "Saint Peter's Basilica",
+    "description": "Italy, Rome, Vatican, 2019",
+    "image": "/images/forum-romanum.jpg"
+  },
+  {
+    "slug": "bazylika-swietego-piotra",
+    "title": "Tauron Arena Krakow",
+    "description": "Poland, Krakow, 2019",
+    "image": "/images/bazylika-swietego-piotra.jpg"
+  },
+  {
+    "slug": "tauron-arena-krakow",
+    "title": "Rome at night",
+    "description": "Italy, Rome, 2019",
+    "image": "/images/tauron-arena-krakow.jpg"
+  },
+  {
+    "slug": "nocny-rzym",
+    "title": "Kosice",
+    "description": "Slovakia, Kosice, 2019",
+    "image": "/images/nocny-rzym.jpg"
+  },
+  {
+    "slug": "kosice-2019",
+    "title": "Warsaw Home 2019",
+    "description": "Poland, Nadarzyn, 2019",
+    "image": "/images/kosice-2019.jpg"
+  },
+  {
+    "slug": "warsaw-home-2019",
+    "title": "BMW Berlin Maraton 2019",
+    "description": "Germany, Berlin, 2019",
+    "image": "/images/warsaw-home-2019.jpg"
+  },
+  {
+    "slug": "bmw-berlin-maraton-2019",
+    "title": "The castle in Baranów Sandomierski",
+    "description": "Poland, Baranów Sandomierski, 2019",
+    "image": "/images/bmw-berlin-maraton-2019.jpg"
+  },
+  {
+    "slug": "zamek-w-baranowie-sandomierskim",
+    "title": "The capital of Hungary, Budapest",
+    "description": "Hungary, Budapest, 2019",
+    "image": "/images/zamek-w-baranowie-sandomierskim.jpg"
+  },
+  {
+    "slug": "budapeszt-2019",
+    "title": "Budapest by night",
+    "description": "Hungary, Budapest, 2019",
+    "image": "/images/budapeszt-2019.jpg"
+  },
+  {
+    "slug": "nocny-budapeszt",
+    "title": "Ojcow National Park",
+    "description": "Poland, Ojcow, 2019",
+    "image": "/images/nocny-budapeszt.jpg"
+  },
+  {
+    "slug": "ojcowski-park-narodowy",
+    "title": "Wędrownicza Watra 2019",
+    "description": "Poland, Harcerski Ośrodek Szkoleniowo - Wypoczynkowy \"Pająk\" Hufca ZHP Częstochowa, 2019",
+    "image": "/images/ojcowski-park-narodowy.jpg"
+  },
+  {
+    "slug": "wedrownicza-watra-2019",
+    "title": "Krynica Zdrój - Observation tower",
+    "description": "Poland, Krynica Zdrój, 2019",
+    "image": "/images/wedrownicza-watra-2019.jpg"
+  },
+  {
+    "slug": "krynica-zdroj-wieza-widokowa",
+    "title": "Kosice",
+    "description": "Slovakia, Kosice, 2019",
+    "image": "/images/krynica-zdroj-wieza-widokowa.jpg"
+  },
+  {
+    "slug": "kosice",
+    "title": "Observation Tower in Krynica Zdrój",
+    "description": "Poland, Krynica-Zdrój, 2019",
+    "image": "/images/kosice.jpg"
+  },
+  {
+    "slug": "wieza-widokowa-w-krynicy-zdroj",
+    "title": "Presov at night",
+    "description": "Slovakia, Presov, 2019",
+    "image": "/images/wieza-widokowa-w-krynicy-zdroj.jpg"
+  },
+  {
+    "slug": "presov",
+    "title": "Štrbské Pleso",
+    "description": "Slovakia, Štrbské Pleso, 2019",
+    "image": "/images/presov.jpg"
+  },
+  {
+    "slug": "strbske-pleso",
+    "title": "Bachledka",
+    "description": "Slovakia, Bachledka, 2019",
+    "image": "/images/strbske-pleso.jpg"
+  },
+  {
+    "slug": "bachledka",
+    "title": "Castle in Chrzelice",
+    "description": "Poland, Chrzelice, 2019",
+    "image": "/images/bachledka.jpg"
+  },
+  {
+    "slug": "zamek-w-chrzelicach",
+    "title": "Palace in Kopice",
+    "description": "Poland, Kopice, 2019",
+    "image": "/images/zamek-w-chrzelicach.jpg"
+  },
+  {
+    "slug": "palace-in-kopice",
+    "title": "Castle in Niemodlin",
+    "description": "Poland, Niemodlin, 2019",
+    "image": "/images/palace-in-kopice.jpg"
+  },
+  {
+    "slug": "zamek-w-niemodlinie",
+    "title": "Lower Witkowice in Ostrava",
+    "description": "Czech Republic, Ostrava, 2019",
+    "image": "/images/zamek-w-niemodlinie.jpg"
+  },
+  {
+    "slug": "dolne-witkowice-w-ostrawie",
+    "title": "Zakrzówek Lagoon in Krakow",
+    "description": "Poland, Krakow, 2019",
+    "image": "/images/dolne-witkowice-w-ostrawie.jpg"
+  },
+  {
+    "slug": "zalew-zakrzowek-w-krakowie",
+    "title": "Brand in Krakow",
+    "description": "Poland, Krakow, 2019",
+    "image": "/images/zalew-zakrzowek-w-krakowie.jpg"
+  },
+  {
+    "slug": "brand-w-krakowie",
+    "title": "Tenczyn Castle in Rudno",
+    "description": "Poland, Rudno, 2019",
+    "image": "/images/brand-w-krakowie.jpg"
+  },
+  {
+    "slug": "zamek-tenczyn-w-rudnie",
+    "title": "Wreaths in Krakow",
+    "description": "Poland, Krakow, 2019",
+    "image": "/images/zamek-tenczyn-w-rudnie.jpg"
+  },
+  {
+    "slug": "wianki-w-krakowie",
+    "title": "XV Lesser Poland Air Picnic",
+    "description": "Poland, Krakow, 2019",
+    "image": "/images/wianki-w-krakowie.jpg"
+  },
+  {
+    "slug": "xv-malopolski-piknik-lotniczy",
+    "title": "Agadir",
+    "description": "Morocco, Agadir, 2019",
+    "image": "/images/xv-malopolski-piknik-lotniczy.jpg"
+  },
+  {
+    "slug": "agadir-1",
+    "title": "Crocoparc",
+    "description": "Maroko, Agadir, Crocoparc, 2019",
+    "image": "/images/agadir-1.jpg"
+  },
+  {
+    "slug": "crocoparc",
+    "title": "Marakesh City",
+    "description": "Morocco, Marrakesh, 2019",
+    "image": "/images/crocoparc.jpg"
+  },
+  {
+    "slug": "marakesh-city",
+    "title": "Marrakech",
+    "description": "Morocco, Marrakechz, 2019",
+    "image": "/images/marakesh-city.jpg"
+  },
+  {
+    "slug": "marakesz",
+    "title": "Agadir",
+    "description": "Maroko, Agadir, 2019",
+    "image": "/images/marakesz.jpg"
+  },
+  {
+    "slug": "agadir",
+    "title": "Rome - the eternal city",
+    "description": "Italy, Rome, 2019",
+    "image": "/images/agadir.jpg"
+  },
+  {
+    "slug": "roma",
+    "title": "Monte Cassino",
+    "description": "Italy, Cassino, Monte Cassino, 2019",
+    "image": "/images/roma.jpg"
+  },
+  {
+    "slug": "monte-cassino",
+    "title": "Vatican by night",
+    "description": "Italy, Rome, Vatican, 2019",
+    "image": "/images/monte-cassino.jpg"
+  },
+  {
+    "slug": "vatican-by-night",
+    "title": "Dobczyckie Lake",
+    "description": "Poland, Dobczyce, 2019",
+    "image": "/images/vatican-by-night.jpg"
+  },
+  {
+    "slug": "jezioro-dobczyckie",
+    "title": "Wawel Castle",
+    "description": "Poland, Krakow, 2019",
+    "image": "/images/jezioro-dobczyckie.jpg"
+  },
+  {
+    "slug": "zamek-na-wawelu",
+    "title": "Balice airport in Krakow",
+    "description": "Poland, Krakow, Balice, 2019",
+    "image": "/images/zamek-na-wawelu.jpg"
+  },
+  {
+    "slug": "lotnisko-balice",
+    "title": "Potsdam - Cecilienhof Palace",
+    "description": "Germany, Potsdam, 2019",
+    "image": "/images/lotnisko-balice.jpg"
+  },
+  {
+    "slug": "poczdam-palac-cecilienhof",
+    "title": "Kotlarski Bridge in Krakow",
+    "description": "Poland, Krakow, 2019",
+    "image": "/images/poczdam-palac-cecilienhof.jpg"
+  },
+  {
+    "slug": "most-kotlarski-w-krakowie",
+    "title": "Berlin by night",
+    "description": "Germany, Berlin, 2019",
+    "image": "/images/most-kotlarski-w-krakowie.jpg"
+  },
+  {
+    "slug": "berlin-noca",
+    "title": "Berlin City",
+    "description": "Germany, Berlin, 2019",
+    "image": "/images/berlin-noca.jpg"
+  },
+  {
+    "slug": "berlin",
+    "title": "Krakow railway bridge",
+    "description": "Poland, Krakow, 2019",
+    "image": "/images/berlin.jpg"
+  },
+  {
+    "slug": "most-kolejowy-w-krakowie",
+    "title": "Vistula and bridges",
+    "description": "Poland, Krakow, 2019",
+    "image": "/images/most-kolejowy-w-krakowie.jpg"
+  },
+  {
+    "slug": "wisla-i-mosty",
+    "title": "XXV Polish Youth Olympics",
+    "description": "Poland, Kielce, Kielce Culture Center, 2019",
+    "image": "/images/wisla-i-mosty.jpg"
+  },
+  {
+    "slug": "xxv-ogolnopolska-olimpiada-mlodziezy",
+    "title": "Krakow - Paulini Skałka",
+    "description": "Poland, Krakow, 2019",
+    "image": "/images/xxv-ogolnopolska-olimpiada-mlodziezy.jpg"
+  },
+  {
+    "slug": "krakow-paulini-skalka",
+    "title": "The city of Warsaw",
+    "description": "Poland, Warsaw, 2019",
+    "image": "/images/krakow-paulini-skalka.jpg"
+  },
+  {
+    "slug": "warszawa",
+    "title": "Krakow Plaszow Concentration Camp",
+    "description": "Poland, Krakow, Plaszow, 2019",
+    "image": "/images/warszawa.jpg"
+  },
+  {
+    "slug": "test",
+    "title": "Krakow Płaszów Concentration Camp",
+    "description": "Poland, Krakow, Plaszow, 2019",
+    "image": "/images/test.jpg"
+  },
+  {
+    "slug": "oboz-koncentracyjny-plaszow",
+    "title": "Royal Castle in Niepołomice",
+    "description": "Poland, Niepolomice, 2019",
+    "image": "/images/oboz-koncentracyjny-plaszow.jpg"
+  },
+  {
+    "slug": "zamek-krolewski-w-niepolomiach",
+    "title": "St. Mary's Basilica in Krakow",
+    "description": "Poland, Krakow, 2019",
+    "image": "/images/zamek-krolewski-w-niepolomiach.jpg"
+  },
+  {
+    "slug": "bazylika-mariacka-w-krakowie",
+    "title": "Monument Adam Mickiewicz",
+    "description": "Poland, Krakow, 2019",
+    "image": "/images/bazylika-mariacka-w-krakowie.jpg"
+  },
+  {
+    "slug": "pomnik-adama-mickiewicza",
+    "title": "Academy Cersanit",
+    "description": "Poland, Kielce 2019",
+    "image": "/images/pomnik-adama-mickiewicza.jpg"
+  },
+  {
+    "slug": "akademia-cersanit",
+    "title": "Monument to Ryszard Kuklinski",
+    "description": "Poland, Krakow, Jeziorański Square, 2019",
+    "image": "/images/akademia-cersanit.jpg"
+  },
+  {
+    "slug": "pomnik-ryszarda-kuklinskiego",
+    "title": "Targi ISH 2019",
+    "description": "Niemcy, Frankfurt, 2019",
+    "image": "/images/pomnik-ryszarda-kuklinskiego.jpg"
+  },
+  {
+    "slug": "targi-ish-2019",
+    "title": "Vienna",
+    "description": "Austria, Vienna, 2019",
+    "image": "/images/targi-ish-2019.jpg"
+  },
+  {
+    "slug": "wieden-1",
+    "title": "Pałac Schönbrunn",
+    "description": "Austria, Wiedeń, 2019",
+    "image": "/images/wieden-1.jpg"
+  },
+  {
+    "slug": "palac-schonbrunn",
+    "title": "Vienna Photo",
+    "description": "Austria, Vienna, 2019",
+    "image": "/images/palac-schonbrunn.jpg"
+  },
+  {
+    "slug": "wieden",
+    "title": "Lviv by night",
+    "description": "Ukraine, Lviv, 2019",
+    "image": "/images/wieden.jpg"
+  },
+  {
+    "slug": "lwow-noca",
+    "title": "Beer Museum in Lviv",
+    "description": "Ukraine, Lviv, 2019",
+    "image": "/images/lwow-noca.jpg"
+  },
+  {
+    "slug": "muzeum-piwa-we-lwowie",
+    "title": "Lviv City",
+    "description": "Ukraine, Lviv, 2019",
+    "image": "/images/muzeum-piwa-we-lwowie.jpg"
+  },
+  {
+    "slug": "lwow",
+    "title": "Bernatek Footbridge",
+    "description": "Poland, Krakow, 2019",
+    "image": "/images/lwow.jpg"
+  },
+  {
+    "slug": "kladka-bernatka-1",
+    "title": "Castle Czorsztyn & Niedzica",
+    "description": "Poland, Czorsztyn & Niedzica, 2019",
+    "image": "/images/kladka-bernatka-1.jpg"
+  },
+  {
+    "slug": "czorsztyn-niedzica",
+    "title": "Castle in Niedzica",
+    "description": "Poland, Niedzica, 2019",
+    "image": "/images/czorsztyn-niedzica.jpg"
+  },
+  {
+    "slug": "zamek-w-niedzicy",
+    "title": "Wawel Royal Castle",
+    "description": "Poland, Krakow, 2019",
+    "image": "/images/zamek-w-niedzicy.jpg"
+  },
+  {
+    "slug": "zamek-krolewski-na-wawelu",
+    "title": "4 Design Days",
+    "description": "Polska, Katowice, 2019",
+    "image": "/images/zamek-krolewski-na-wawelu.jpg"
+  },
+  {
+    "slug": "4-design-days",
+    "title": "Muzyczna Kuźnia 2019",
+    "description": "",
+    "image": "/images/4-design-days.jpg"
+  },
+  {
+    "slug": "muzyczna-kuznia-2019",
+    "title": "Londyn City",
+    "description": "United Kingdom, London, 2019",
+    "image": "/images/muzyczna-kuznia-2019.jpg"
+  },
+  {
+    "slug": "londyn-1",
+    "title": "London in pictures",
+    "description": "United Kingdom, London, 2019",
+    "image": "/images/londyn-1.jpg"
+  },
+  {
+    "slug": "londyn",
+    "title": "Pilsko Ski Resort",
+    "description": "Poland, Korbielów, 2019",
+    "image": "/images/londyn.jpg"
+  },
+  {
+    "slug": "korbielow",
+    "title": "Cmentarz na Rossie",
+    "description": "Litwa, Wilno, 2018",
+    "image": "/images/korbielow.jpg"
+  },
+  {
+    "slug": "cmentarz-na-rossie",
+    "title": "Vilnius",
+    "description": "Vilnius, Lithuania, 2018",
+    "image": "/images/cmentarz-na-rossie.jpg"
+  },
+  {
+    "slug": "wilno",
+    "title": "VII Festiwal \"Przy Kominku\"",
+    "description": "VII Ogólnopolski Festiwal Piosenki Poetyckiej i Turystycznej \"Przy Kominku\"",
+    "image": "/images/wilno.jpg"
+  },
+  {
+    "slug": "vii-festiwal-przy-kominku",
+    "title": "Kraków",
+    "description": "Polska, 2018",
+    "image": "/images/vii-festiwal-przy-kominku.jpg"
+  },
+  {
+    "slug": "krakow-1",
+    "title": "Just Gym's birthday",
+    "description": "Poland, Krakow, 2018",
+    "image": "/images/krakow-1.jpg"
+  },
+  {
+    "slug": "urodziny-silowni-just-gym",
+    "title": "Meeting of the ZHP Gdańsk",
+    "description": "Poland, Gdańsk, Sobieszewo Island, 2018",
+    "image": "/images/urodziny-silowni-just-gym.jpg"
+  },
+  {
+    "slug": "zlot-zhp-gdansk",
+    "title": "Kładka Bernatka",
+    "description": "Polska, Kraków, 2018",
+    "image": "/images/zlot-zhp-gdansk.jpg"
+  },
+  {
+    "slug": "kladka-bernatka",
+    "title": "Palma de Mallorca",
+    "description": "Spain, Majorca, 2018",
+    "image": "/images/kladka-bernatka.jpg"
+  },
+  {
+    "slug": "palma-de-mallorca-2018",
+    "title": "Mallorca",
+    "description": "Spain, Mallorca, 2018",
+    "image": "/images/palma-de-mallorca-2018.jpg"
+  },
+  {
+    "slug": "mallorca",
+    "title": "Mallorca Sa Calobra",
+    "description": "Hiszpania, 2018",
+    "image": "/images/mallorca.jpg"
+  },
+  {
+    "slug": "mallorca-sa-calobra-2018",
+    "title": "Wawel, ICE",
+    "description": "Polska, Kraków, 2018",
+    "image": "/images/mallorca-sa-calobra-2018.jpg"
+  },
+  {
+    "slug": "krakow",
+    "title": "Warsaw Home 2018",
+    "description": "Polska, Warszawa, Ptak Warsaw Expo, 2018",
+    "image": "/images/krakow.jpg"
+  },
+  {
+    "slug": "warsaw-home",
+    "title": "MSPO - Civic Dialogue",
+    "description": "Poland, Kielce, Targi Kielce, 2018",
+    "image": "/images/warsaw-home.jpg"
+  },
+  {
+    "slug": "dialog-obywatelski",
+    "title": "Zakopane",
+    "description": "Polska, 2018",
+    "image": "/images/dialog-obywatelski.jpg"
+  },
+  {
+    "slug": "zakopane-2018",
+    "title": "Gdańsk",
+    "description": "Polska, Gdańsk, 2018",
+    "image": "/images/zakopane-2018.jpg"
+  },
+  {
+    "slug": "gdansk-2018",
+    "title": "Zamość",
+    "description": "Polska, Zamość, 2018",
+    "image": "/images/gdansk-2018.jpg"
+  },
+  {
+    "slug": "zamosc",
+    "title": "Berlin",
+    "description": "Niemcy, 2018",
+    "image": "/images/zamosc.jpg"
+  },
+  {
+    "slug": "berlin-2018",
+    "title": "Hurghada",
+    "description": "Egipt, Hurghada, 2018",
+    "image": "/images/berlin-2018.jpg"
+  },
+  {
+    "slug": "hurghada-2018",
+    "title": "Muzyczna Kuźnia 2018",
+    "description": "Polska, Kielce, 2018",
+    "image": "/images/hurghada-2018.jpg"
+  },
+  {
+    "slug": "muzyczna-kuznia-2018",
+    "title": "Paris",
+    "description": "France, Paris, 2018",
+    "image": "/images/muzyczna-kuznia-2018.jpg"
+  },
+  {
+    "slug": "paris",
+    "title": "VI Festiwal Przy Kominku",
+    "description": "VI Ogólnopolski Festiwal Piosenki Poetyckiej i Turystycznej \"Przy Kominku\"",
+    "image": "/images/paris.jpg"
+  },
+  {
+    "slug": "vi-festiwal-przy-kominku",
+    "title": "V Festiwal Przy Kominku",
+    "description": "VII Ogólnopolski Festiwal Piosenki Poetyckiej i Turystycznej \"Przy Kominku\"",
+    "image": "/images/vi-festiwal-przy-kominku.jpg"
+  },
+  {
+    "slug": "v-festiwal-przy-kominku",
+    "title": "Muzyczna Kuźnia 2017",
+    "description": "Polska, Kielce, 2017",
+    "image": "/images/v-festiwal-przy-kominku.jpg"
+  },
+  {
+    "slug": "muzyczna-kuznia-2017",
+    "title": "Niebo w Bieszczadach",
+    "description": "Polska, Olchowiec, 2017",
+    "image": "/images/muzyczna-kuznia-2017.jpg"
+  }
+];
